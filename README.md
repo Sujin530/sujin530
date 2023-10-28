@@ -5,8 +5,9 @@
 <br>
 <br>
 ### 👋🏾 Sujin
-Hi, my name is Sujin.  
-I am interested in AI and I am studying AI at AIFFEL now. 
+Now I am a Master's stduent at Inha University. 
+Studying Computer Graphics, Vision and Deep Learning.
+
 <br>
 <br>
 <br>
